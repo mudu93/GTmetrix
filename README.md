@@ -1,3 +1,3 @@
-"# Chrome Extension
+# Chrome extension
 
 ![plugin](extensionshot.png)
